@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NexusWMS - Sistema de Gestão de Armazém",
+  "description": "Um sistema profissional de gerenciamento de armazém (WMS) para controle de posições de pallets, entrada de mercadorias e visualização de estoque em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
